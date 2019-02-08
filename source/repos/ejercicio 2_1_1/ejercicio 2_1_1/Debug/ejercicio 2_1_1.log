@@ -1,0 +1,3 @@
+﻿  ejercicio 2_1_1.cpp
+c:\users\pau.sole\source\repos\ejercicio 2_1_1\ejercicio 2_1_1\ejercicio 2_1_1.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ejercicio 2_1_1.vcxproj -> C:\Users\pau.sole\source\repos\ejercicio 2_1_1\Debug\ejercicio 2_1_1.exe

@@ -1,0 +1,9 @@
+﻿  funciones_flotantes.cpp
+c:\users\pau.sole\source\repos\funciones_flotantes\funciones_flotantes\funciones_flotantes.cpp(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\pau.sole\source\repos\funciones_flotantes\funciones_flotantes\funciones_flotantes.cpp(47): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\pau.sole\source\repos\funciones_flotantes\funciones_flotantes\funciones_flotantes.cpp(47): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\pau.sole\source\repos\funciones_flotantes\funciones_flotantes\funciones_flotantes.cpp(47): note: the missing variadic argument 1 is required by format string '%f'
+c:\users\pau.sole\source\repos\funciones_flotantes\funciones_flotantes\funciones_flotantes.cpp(53): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\pau.sole\source\repos\funciones_flotantes\funciones_flotantes\funciones_flotantes.cpp(53): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\pau.sole\source\repos\funciones_flotantes\funciones_flotantes\funciones_flotantes.cpp(53): note: the missing variadic argument 1 is required by format string '%f'
+  funciones_flotantes.vcxproj -> C:\Users\pau.sole\source\repos\funciones_flotantes\Debug\funciones_flotantes.exe
